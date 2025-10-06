@@ -1,0 +1,9 @@
+# minigame-1
+## Devlog
+
+Game objects are the element options offered to us in the hierarchy on the left side of the Unity screen. For example, blocks, coins, capsules, etc. Components are what make up the game objects that appear on the right side of your screen and normally manage, for example, speed, rotation, jump height, among others. Finally, the scene is simply everything that is formed with the help of game objects and their components. Therefore, their relationship is, for example, like chocolate-covered strawberries. A strawberry on its own is delicious, but if you add something magical and equally delicious like chocolate, it creates an explosion of satisfaction. Now imagine that you want to give this special combination because it is something that excites you. One strawberry is not enough; you need at least 6-12 to make a decent and beautiful gift.
+
+With this in mind, think of the strawberry as the Game Object, the chocolate as the components, and finally, the scene as the gift. In a game, these three things are what basically make up the entire game (gift). Something I experienced while modifying the game was the satisfaction of being able to move the speed (example of a component) of the "player capsule" (example of a Game Object) and making the movement more fluid. That's why I looked for a way to explain this satisfaction with something that would personally give me the same feeling, and what better than chocolate-covered strawberries, something that makes a perfect gift.
+## Open-Source Assets
+- Starter first-person assets: https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
+- Low poly platformer kit: https://assetstore.unity.com/packages/3d/environments/lowpoly-platformer-kit-free-modular-stylized-blocks-319018 
